@@ -1,0 +1,41 @@
+/*body {
+  background-image: url(https://nexus.leagueoflegends.com/wp-content/uploads/2016/11/1200x630-1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}*/
+
+body {
+  background-color: #0b0b23;
+}
+
+.block, #abilities, #banner, .label{
+  background-color: #1c1c55;
+  color: white;
+  margin: 30px;
+  border: 3px solid steelblue;
+}
+
+.label {
+}
+
+#banner {
+  background-image: url("D:/Christian/Programming/repo/utube/ryze/ryzes.png");
+  background-color: #1c1c55;
+  background-repeat: no-repeat;
+  padding: 50px;
+  border: 3px solid steelblue;
+}
+
+.block {
+  text-align: center;
+  padding: 20px;
+  height: 150px;
+}
+
+#abilities {
+  padding: 10px;
+  width: 1000px;
+  height: 500px;
+  border-spacing: initial;
+}
